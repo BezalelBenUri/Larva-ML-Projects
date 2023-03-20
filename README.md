@@ -1,0 +1,1 @@
+"# The project is about predicting number of larva using DN of geospatial data extracted using GIS tools, and also vetting the projected larva sites from a GIS weighted sum model, using a ground truth geospatial data" 
